@@ -1,0 +1,13 @@
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+
+# Binaries
+*.o
+*.out
+*.exe
+server
+client
